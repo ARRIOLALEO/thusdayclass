@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container__product{
+    max-width: 30%;
+}
